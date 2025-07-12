@@ -1,0 +1,27 @@
+{
+    "disease": {
+        "precision": 1.0,
+        "recall": 0.9629629629629629,
+        "f1-score": 0.9811320754716981,
+        "support": 27.0
+    },
+    "healthy": {
+        "precision": 0.9803921568627451,
+        "recall": 1.0,
+        "f1-score": 0.9900990099009901,
+        "support": 50.0
+    },
+    "accuracy": 0.987012987012987,
+    "macro avg": {
+        "precision": 0.9901960784313726,
+        "recall": 0.9814814814814814,
+        "f1-score": 0.9856155426863441,
+        "support": 77.0
+    },
+    "weighted avg": {
+        "precision": 0.9872676343264578,
+        "recall": 0.987012987012987,
+        "f1-score": 0.9869547601660437,
+        "support": 77.0
+    }
+}
